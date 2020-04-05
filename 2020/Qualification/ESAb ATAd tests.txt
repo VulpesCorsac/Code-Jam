@@ -1,0 +1,114 @@
+Matched only:
+    No Operation:
+        Input:
+            0 0 1 1 0 0 1 1 0 0 0 0 1 1 0 0 1 1 0 0 0 0 1 1
+        Output:
+            01010101011010101010
+    Reverse 1:
+        Input:
+            0 0 1 1 0 0 1 1 0 0 0 0 1 1 0 0 1 1 0 0 0 0 1 1
+        Output:
+            01010101011010101010
+    Swap 1:
+        Input:
+            0 0 1 1 0 0 1 1 0 0 1 1 1 1 0 0 1 1 0 0 1 1 1 1
+        Output:
+            10101101011010110101
+    Swap 2:
+        Input:
+            0 0 1 1 0 0 1 1 0 0 1 1 1 1 0 0 1 1 0 0 0 0 0 0
+        Output:
+            01010010100101001010
+Mismatched only:
+    No Operation:
+        Input:
+            0 1 1 0 0 1 1 0 0 1 0 1 1 0 0 1 1 0 0 1 0 1 1 0
+        Output:
+            01010101010101010101
+    Reverse 1:
+        Input:
+            0 1 1 0 0 1 1 0 0 1 1 0 1 0 0 1 1 0 0 1 1 0 0 1
+        Output:
+            10101101001101001010
+    Reverse 2:
+        Input:
+            0 1 1 0 0 1 1 0 0 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0
+        Output:
+            01010010110010110101
+    Swap 1:
+        Input:
+            0 1 1 0 0 1 1 0 0 1 1 0 1 0 0 1 1 0 0 1 1 0 0 1
+        Output:
+            10101101001101001010
+    Swap 2:
+        Input:
+            0 1 1 0 0 1 1 0 0 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0
+        Output:
+            01010010110010110101
+    Reverse 1, Swap 1:
+        Input:
+            0 1 1 0 0 1 1 0 0 1 1 0 1 0 0 1 1 0 0 1 0 1 1 0
+        Output:
+            01010010110010110101
+Both On Stage 1:
+    Reverse 1:
+        Input:
+            0 0 1 0 0 0 1 1 1 0 0 0 0 0 1 1 0 0 1 1 0 0 1 1
+        Output:
+            00010010111101011010
+    Reverse 2:
+        Input:
+            0 0 1 0 0 0 1 1 1 1 0 0 0 0 1 1 0 0 1 1 0 1 1 1
+        Output:
+            01011010111101011000
+    Swap 1:
+        Input:
+            0 0 1 0 0 0 1 1 1 1 1 0 0 0 1 1 0 0 1 1 1 0 1 1
+        Output:
+            10100010111101000111
+    Swap 2:
+        Input:
+            0 0 1 0 0 0 1 1 1 1 1 0 0 0 1 1 0 0 1 1 0 1 1 1
+        Output:
+            01011101011010111000
+    Reverse 1, Swap 1:
+        Input:
+            0 0 1 0 0 0 1 1 1 1 0 0 1 1 0 0 1 1 0 0 1 1 1 1
+        Output:
+            11100010111101000101
+    Swap 1, Reverse 1:
+        Input:
+            0 0 1 0 0 0 1 1 1 1 1 0 0 0 1 1 0 0 1 1 1 1 1 1
+        Output:
+            11100010111101000101
+    Swap & Reverse 1:
+        Input:
+            1 1 0 1 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 0 0 1 1
+        Output:
+            00111111111111111110
+    Swap & Reverse 1, Swap & Reverse 2:
+        Input:
+            1 1 0 1 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 1 1
+        Output:
+            10000000011000000011
+    Swap & Reverse 1, Swap 2:
+        Input:
+            1 1 0 1 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1
+        Output:
+            11000000011000000001
+    Swap & Reverse 1, Reverse 2:
+        Input:
+            1 1 0 1 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 0 1 0 0
+        Output:
+            01111111100111111100
+    No Operation:
+        Input:
+            1 1 0 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 1 0 1 1
+        Output:
+            10111000011000011111
+Matched Stage 1, than Mismatched:
+    No Operation:
+        Input:
+        
+        Output:
+        
