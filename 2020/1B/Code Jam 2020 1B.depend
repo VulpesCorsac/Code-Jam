@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1585993673 source:c:\users\george\yandexdisk\geo_prog\27use\code jam 2020 qualification\main.cpp
+	<iostream>
+	<vector>
+	<set>
+	<map>
+	<string>
+	<algorithm>
+
+1585986040 source:c:\users\george\yandexdisk\geo_prog\27use\code jam 2020 qualification\vestigium.cpp
+	<iostream>
+	<vector>
+	<set>
+
+1585986023 source:c:\users\george\yandexdisk\geo_prog\27use\code jam 2020 qualification\nesting depth.cpp
+	<iostream>
+	<vector>
+	<set>
+	<map>
+	<string>
+
+1585982751 source:c:\users\george\yandexdisk\geo_prog\27use\code jam 2020 qualification\parenting partnering returns.cpp
+	<iostream>
+	<vector>
+	<set>
+	<map>
+	<string>
+	<algorithm>
+
+1585993293 source:c:\users\george\yandexdisk\geo_prog\27use\code jam 2020 qualification\esab atad.cpp
+	<iostream>
+	<vector>
+	<set>
+	<map>
+	<string>
+	<algorithm>
+
+1586000964 source:c:\users\george\yandexdisk\geo_prog\code jam 2020 qualification\esab atad.cpp
+	<iostream>
+	<vector>
+	<set>
+	<map>
+	<string>
+	<algorithm>
+	<stdio.h>
+
+1585986023 source:c:\users\george\yandexdisk\geo_prog\code jam 2020 qualification\nesting depth.cpp
+	<iostream>
+	<vector>
+	<set>
+	<map>
+	<string>
+
+1585982751 source:c:\users\george\yandexdisk\geo_prog\code jam 2020 qualification\parenting partnering returns.cpp
+	<iostream>
+	<vector>
+	<set>
+	<map>
+	<string>
+	<algorithm>
+
+1585986040 source:c:\users\george\yandexdisk\geo_prog\code jam 2020 qualification\vestigium.cpp
+	<iostream>
+	<vector>
+	<set>
+
+1586009288 source:c:\users\george\yandexdisk\geo_prog\code jam 2020 qualification\main.cpp
+	<iostream>
+	<vector>
+	<set>
+	<map>
+	<string>
+	<algorithm>
+	<stdio.h>
+
